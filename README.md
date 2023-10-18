@@ -1,4 +1,4 @@
-# <h1 align="center">To do Operations</h1>
+# <h1 align="center">Todo CRUD Operations</h1>
 <p align="center">
   <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
@@ -35,7 +35,7 @@ The Todo project is a feature-rich web application built using Spring Boot that 
                              ┌─────────────────────────┐
                              │        Todo API         │
                              └───────────┬─────────────┘
-                                        │
+                                         │
                                          ▼
                              ┌─────────────────────────┐
                              │       Controllers       │
